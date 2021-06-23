@@ -63,7 +63,7 @@ input:focus{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 10px;
+    margin: 10px; /*LOL*/
     padding: 5px;
 }
 .operationals > *{
